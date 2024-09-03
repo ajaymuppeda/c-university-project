@@ -182,7 +182,7 @@ int choice;
                 int studentChoice;
   do {
         printf("Student System\n");
-        printf("1. Add Student\n");
+        printf("1. Register Student\n");
         printf("2. Remove Student\n");
         printf("3. Display Students\n");
          printf("4. Update Fee Paid\n");
@@ -265,7 +265,7 @@ int choice;
                   int studentChoice;
   do {
         printf("Student System\n");
-        printf("1. Add Student\n");
+        printf("1. Register Student\n");
         printf("2. Remove Student\n");
         printf("3. Display Students\n");
          printf("4. Update Fee Paid\n");
@@ -375,7 +375,7 @@ int choice;
               int studentChoice;
   do {
         printf("Student System\n");
-        printf("1. Add Student\n");
+        printf("1. Register Student\n");
         printf("2. Remove Student\n");
         printf("3. Display Students\n");
          printf("4. Update Fee Paid\n");
